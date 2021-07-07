@@ -1,11 +1,7 @@
 # TN Department of Economic and Community Development (ECD) Dashboard
-## Table Of Contents:
-###  [Description](#description)
-###  [Technologies](#technologies)
-###  [Procedures](#procedures)
 
 ## Description
-The main product of this repo is the `ECD_Dashboard.twbx` This Tableau workbook contains an interactive dashboard based on 2011-2018 data from the ECD and an page relating to the Nashville Oracle expansion. 
+The main product of this repo is the `ECD_Dashboard.twbx` This Tableau workbook contains an interactive dashboard based on 2011-2018 data from the ECD and a page relating to the Nashville Oracle expansion. 
 
 The dashboard features: 
 
@@ -20,11 +16,11 @@ The dashboard features:
 
 
 
-![Dashboard image](./images/dashboard.png)
+![Dashboard image](images/dashboard.png)
 
 The Oracle page includes information about the expansion project as it relates to the ECD data, in addition to a quote from the ECD Commissioner about the expansion. This page, in conjunction with the main dashboard, is intended to provide context that demonstrates how significant Oracle's contribution will be to the state relative to other company developments in the past decade. 
 
-![Oracle image](./images/oracle.png)
+![Oracle image](images/oracle.png)
 
 ## Technologies
 To complete this project, I used the following:
