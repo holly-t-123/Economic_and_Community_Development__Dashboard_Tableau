@@ -6,7 +6,7 @@ The main product of this repo is the `ECD_Dashboard.twbx` This Tableau workbook 
 The dashboard features: 
 
 - a TN county map with a color gradient based on population size 
-- a stacked line graphs of unemployment rate and new jobs
+- a stacked line graph of unemployment rate and new jobs
 - a tree map of project type distribution
 - a table of company information including new jobs, capital investment, and total grants received
 - filtering by county when clicking on the TN map
@@ -23,12 +23,13 @@ The Oracle page includes information about the expansion project as it relates t
 ![oracle](images/oracle.PNG)
 
 ## Technologies
-To complete this project, I used the following:
+To complete this project, I used the following tools:
 - SQL
 - PostgreSQL
 - Tableau
 
 ## Procedures
+My steps to complete this project were as follows:
 - importing the ECD database
 - cleaning the ECD data by eliminating duplicate rows
 - querying the database to create 3 tables and saving these to CSV files: 
