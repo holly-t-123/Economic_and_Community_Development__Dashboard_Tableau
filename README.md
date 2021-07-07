@@ -16,11 +16,11 @@ The dashboard features:
 
 
 
-![](images/dashboard.png)
+![dashboard](images/dashboard.PNG)
 
 The Oracle page includes information about the expansion project as it relates to the ECD data, in addition to a quote from the ECD Commissioner about the expansion. This page, in conjunction with the main dashboard, is intended to provide context that demonstrates how significant Oracle's contribution will be to the state relative to other company developments in the past decade. 
 
-![](images/oracle.png)
+![oracle](images/oracle.PNG)
 
 ## Technologies
 To complete this project, I used the following:
